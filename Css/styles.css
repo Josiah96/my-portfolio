@@ -1,6 +1,7 @@
 .head {
   font-style: oblique;
   color: green;
+  text-align: center;
 }
 .body {
   background-color: gray;
