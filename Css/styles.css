@@ -19,3 +19,10 @@
   height: 260px;
   float: right;
 }
+.Box {
+  width: 600px;
+  border: 25px red;
+  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
