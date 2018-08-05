@@ -4,7 +4,7 @@
   text-align: left;
 }
 .body {
-  background-color: gray;
+  background-color: black;
 }
 .para {
   text-align: left;
@@ -21,7 +21,7 @@
 }
 .Box {
   width: 660px;
-  border: 25px solid black;
+  border: 25px solid gray;
   padding: 25px;
   margin-left: auto;
   margin-right: auto;
