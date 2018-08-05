@@ -12,3 +12,8 @@
   font-style: italic;
   color: green;
 }
+.photo {
+  width: 180px;
+  height: 180px;
+  float: right;
+}
