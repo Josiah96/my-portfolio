@@ -17,4 +17,4 @@ a copy of this software and associated documentation files (the
 without limitation the rights to use, copy, modify, merge, publish,
 distribute, sublicense, and/or sell copies of the Software, and to
 permit persons to whom the Software is furnished}*
-Copyright (c) 2014-2018 Sebastian McKenzie <sebmck@gmail.com
+Copyright (c) 2014-2018 
